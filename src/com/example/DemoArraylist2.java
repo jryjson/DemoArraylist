@@ -22,7 +22,7 @@ public class DemoArraylist2 {
     boolean quit = false;
     startPhone();
     printActions();
-    /* Vår meny */
+    /* Vår meny i en while-loop */
     while(!quit) {
       System.out.println("\nVälj: (6 för att visa val)");
       int action = scanner.nextInt();
