@@ -16,6 +16,7 @@ public class DemoArraylist2 {
   private static Scanner scanner = new Scanner(System.in);
   private static MobilePhone mobilePhone = new MobilePhone("070-2222222"); // Vi skapar ett objekt av mobilePhone klassen som bara är åtkomlig i denna klassen
 
+  /* Vår main-klass till projektet */
   public static void main(String[] args) {
 
     boolean quit = false;
